@@ -5,7 +5,8 @@ This is a web based application developed for Earth related Farming based websit
 ### This web based Agriculture application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-*Project Link* - 
+*Project Link* -  https://ashy-pond-04d67e500.2.azurestaticapps.net
+
 
 
 *Project demo video link*  - 
@@ -118,6 +119,7 @@ This is a web based application developed for Earth related Farming based websit
 
 ### Azure Static web apps  -
 
+![image](https://user-images.githubusercontent.com/118500652/208018099-56b3aa90-72f5-4d0d-854b-f107f2f567ea.png)
 
 
 
